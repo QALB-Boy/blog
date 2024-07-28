@@ -7,7 +7,7 @@ img: vlcsnap-2024-07-28-18h40m14s482.png
 fig-caption: # Add figcaption (optional)
 tags: [charity, e-learning, waqf]
 ---
-When I was studying Physics at University of London Royal Holloway, I had an idea. What if there was a way to help teach poor kids through an app.
+When I was studying Physics at the University of London Royal Holloway, I had an idea. What if there was a way to help teach poor kids through an app?
 
 ## QALB-Boy app
 The result of this thought process is now an app that is nearing completion for testing.
