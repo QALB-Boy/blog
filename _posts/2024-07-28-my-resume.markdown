@@ -8,4 +8,4 @@ tags: [CV, resume] # add tag
 ---
 
 
-![I and My friends]({{site.baseurl}}/assets/img/20240716_ANDREW_POTTER_CV.jpg)
+![CV]({{site.baseurl}}/assets/img/20240716_ANDREW_POTTER_CV.jpg)

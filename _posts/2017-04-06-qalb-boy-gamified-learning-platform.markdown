@@ -5,7 +5,7 @@ date: 2024-07-28 13:32:20 +0300
 description: The aim is to provide scalable education to children in poverty
 img: vlcsnap-2024-07-28-18h40m14s482.png
 fig-caption: # Add figcaption (optional)
-tags: [charity, e-learning, waqf]
+tags: [charity, e-learning, storytelling, waqf, kde, linux, blender, react, rust, ruby-on-rails, c++, qml, python]
 ---
 When I was studying Physics at the University of London Royal Holloway, I had an idea. What if there was a way to help teach poor kids through an app?
 
@@ -21,6 +21,7 @@ QALB-Boy is an educational art-game-storytelling platform. Written in React, Rus
 * Ruby-on-Rails for the core backend and P2P
 * C++ for the Qt app
 * Qml for everything you see in the Qt app
+* GDScript and Godot for many video games
 
 Machine learning is planned as a feature, so Python will be added to this list.
 
@@ -38,6 +39,7 @@ I need volunteers who are good with:
 * C++
 * Qml
 * Rust
+* GDScript and Godot
 * Desktop Linux
   
 
