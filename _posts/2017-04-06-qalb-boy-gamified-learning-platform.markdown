@@ -5,7 +5,7 @@ date: 2024-07-28 13:32:20 +0300
 description: The aim is to provide scalable education to children in poverty
 img: vlcsnap-2024-07-28-18h40m14s482.png
 fig-caption: # Add figcaption (optional)
-tags: [charity, e-learning]
+tags: [charity, e-learning, waqf]
 ---
 When I was studying Physics at University of London Royal Holloway, I had an idea. What if there was a way to help teach poor kids through an app.
 
@@ -27,4 +27,18 @@ Machine learning is planned as a feature, so Python will be added to this list.
 ### Community collaboration
 
 At some point it will be vital to form a community around this app if it is going to succeed.
+
+I need volunteers who are good with:
+* KDE
+* Storytelling
+* Blender Grease Pencil
+* Translating locales
+* React
+* Ruby-on-Rails
+* C++
+* Qml
+* Rust
+* Desktop Linux
+  
+
 

@@ -1,0 +1,11 @@
+---
+layout: post
+title: My resume
+date: 2024-07-28 00:00:00 +0300
+description: Here you will find my CV. # Add post description (optional)
+img: software.jpg # Add image post (optional)
+tags: [CV, resume] # add tag
+---
+
+
+![I and My friends]({{site.baseurl}}/assets/img/20240716_ANDREW_POTTER_CV.jpg)
