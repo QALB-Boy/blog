@@ -14,7 +14,7 @@ The result of this thought process is now an app that is nearing completion for 
 
 <iframe width="840" height="473" src="https://www.youtube.com/embed/LotFMSYgq8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-QALB-Boy is an educational art-game-storytelling platform. Written in React, Rust, Ruby-on-Rails, C++, Qml.
+QALB-Boy is an educational art-game-storytelling platform. Written in React, Rust, Ruby-on-Rails, C++, Qml. Blender is used for the artwork.
 
 * React for the UI
 * Rust for many of the video games
