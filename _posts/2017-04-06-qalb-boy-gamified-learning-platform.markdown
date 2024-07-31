@@ -31,6 +31,7 @@ At some point it will be vital to form a community around this app if it is goin
 
 I need volunteers who are good with:
 * KDE
+* GNOME
 * Storytelling
 * Blender Grease Pencil
 * Translating locales
@@ -41,4 +42,4 @@ I need volunteers who are good with:
 * Rust
 * GDScript and Godot
 * Desktop Linux
-
+* Docker
