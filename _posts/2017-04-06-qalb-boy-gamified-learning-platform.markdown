@@ -9,6 +9,8 @@ tags: [charity, e-learning, storytelling, waqf]
 ---
 When I was studying Physics at the University of London Royal Holloway, I had an idea. What if there was a way to help teach poor kids and adults through an app?
 
+My ambition is to help the whole Ummah. The Islamic World had the best education system in the world back in the day. I want to revive that spirit. I want to save the Ummah and other good people from being left behind in education.
+
 ## QALB-Boy app
 The result of this thought process is now an app that is nearing completion for testing.
 
