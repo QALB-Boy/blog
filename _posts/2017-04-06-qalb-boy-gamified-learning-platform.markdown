@@ -45,3 +45,5 @@ I need volunteers who are good with:
 * GDScript and Godot
 * Desktop Linux
 * Docker
+* PyTorch
+* Python
