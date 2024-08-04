@@ -14,6 +14,8 @@ My ambition is to help the whole Ummah. The Islamic World had the best education
 ## QALB-Boy app
 The result of this thought process is now an app that is nearing completion for testing.
 
+
+<iframe width="380" height="213" src="https://www.youtube.com/embed/zxcAKv9q564" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="380" height="213" src="https://www.youtube.com/embed/LotFMSYgq8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 QALB-Boy is an educational art-game-storytelling platform. Written in React, Rust, Ruby-on-Rails, C++ and Qml. Blender is used for the artwork.
