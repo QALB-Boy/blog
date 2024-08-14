@@ -53,3 +53,5 @@ I need volunteers who are good with:
 * Docker
 * PyTorch
 * Python
+
+Please star on Github: [https://github.com/quantumsand/xinboy](https://github.com/quantumsand/xinboy)
