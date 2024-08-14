@@ -13,7 +13,7 @@ My ambition is to help everyone. The Islamic World had the best education system
 
 xinboy is “heart boy”. Like “Game Boy”.
 
-The Chinese word for heart xin: the heart (心, pinyin: xīn).
+The Chinese word for heart xin: the heart (心, pinyin: xīn). qalbboy is the Arabic version.
 
 ## xinboy app
 The result of this thought process is now an app that is nearing completion for testing.
