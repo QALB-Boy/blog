@@ -8,4 +8,6 @@ tags: [CV, resume] # add tag
 ---
 
 
-![CV]({{site.baseurl}}/assets/img/20240811_andrew_potter_cv.jpg)
+![CV]({{site.baseurl}}/assets/img/20240814_andrew_potter_cv.jpg)
+
+Download: [PDF](/assets/img/20240814_andrew_potter_cv.pdf)
