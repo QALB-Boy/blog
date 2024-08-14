@@ -9,7 +9,7 @@ tags: [charity, e-learning, storytelling, waqf]
 ---
 When I was studying Physics at the University of London Royal Holloway, I had an idea. What if there was a way to help teach poor kids and adults through an app?
 
-My ambition is to help everyone. The Islamic World had the best education system in the world back in the day. I want to revive that spirit. I want to help everyone from being left behind in education.
+My ambition is to help everyone. I want to help everyone from being left behind in education.
 
 xinboy is “heart boy”. Like “Game Boy”.
 
