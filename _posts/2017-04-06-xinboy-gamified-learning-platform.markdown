@@ -1,6 +1,6 @@
 ---
 layout: post
-title: QALB-Boy gamified learning platform
+title: xinboy gamified learning platform
 date: 2024-07-28 13:32:20 +0300
 description: The aim is to provide scalable education to children in poverty
 img: vlcsnap-2024-07-28-18h40m14s482.png
@@ -9,16 +9,20 @@ tags: [charity, e-learning, storytelling, waqf]
 ---
 When I was studying Physics at the University of London Royal Holloway, I had an idea. What if there was a way to help teach poor kids and adults through an app?
 
-My ambition is to help the whole Ummah. The Islamic World had the best education system in the world back in the day. I want to revive that spirit. I want to save the Ummah and other good people from being left behind in education.
+My ambition is to help everyone. The Islamic World had the best education system in the world back in the day. I want to revive that spirit. I want to help everyone from being left behind in education.
 
-## QALB-Boy app
+xinboy is “heart boy”. Like “Game Boy”.
+
+The Chinese word for heart xin: the heart (心, pinyin: xīn).
+
+## xinboy app
 The result of this thought process is now an app that is nearing completion for testing.
 
 
 <iframe width="380" height="213" src="https://www.youtube.com/embed/zxcAKv9q564" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="380" height="213" src="https://www.youtube.com/embed/LotFMSYgq8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-QALB-Boy is an educational art-game-storytelling platform. Written in React, Rust, Ruby-on-Rails, C++ and Qml. Blender is used for the artwork.
+xinboy is an educational art-game-storytelling platform. Written in React, Rust, Ruby-on-Rails, C++ and Qml. Blender is used for the artwork.
 
 * React for the UI
 * Rust for many of the video games
