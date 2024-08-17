@@ -1,6 +1,6 @@
 ---
 layout: post
-title: xinboy gamified learning platform
+title: quantumsand gamified learning platform
 date: 2024-07-28 13:32:20 +0300
 description: The aim is to provide scalable education to children in poverty
 img: vlcsnap-2024-07-28-18h40m14s482.png
@@ -9,20 +9,14 @@ tags: [charity, e-learning, storytelling, waqf]
 ---
 When I was studying Physics at the University of London Royal Holloway, I had an idea. What if there was a way to help teach poor kids and adults through an app?
 
-My ambition is to help everyone. I want to help everyone from being left behind in education.
-
-xinboy is “heart boy”. Like “Game Boy”.
-
-The Chinese word for heart xin: the heart (心, pinyin: xīn). qalbboy is the Arabic version.
-
-## xinboy app
+## quantumsand app
 The result of this thought process is now an app that is nearing completion for testing.
 
 
 <iframe width="380" height="213" src="https://www.youtube.com/embed/zxcAKv9q564" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="380" height="213" src="https://www.youtube.com/embed/LotFMSYgq8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-xinboy is an educational art-game-storytelling platform. Written in React, Rust, Ruby-on-Rails, C++ and Qml. Blender is used for the artwork.
+quantumsand is an educational art-game-storytelling platform. Written in React, Rust, Ruby-on-Rails, C++ and Qml. Blender is used for the artwork.
 
 * React for the UI
 * Rust for many of the video games
@@ -54,4 +48,4 @@ I need volunteers who are good with:
 * PyTorch
 * Python
 
-Please star on Github: [https://github.com/quantumsand/xinboy](https://github.com/quantumsand/xinboy)
+Please star on Github: [https://github.com/quantumsand/quantumsand](https://github.com/quantumsand/quantumsand)
