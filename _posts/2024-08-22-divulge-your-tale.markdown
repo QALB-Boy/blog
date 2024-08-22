@@ -18,6 +18,8 @@ I had a brilliant Professor who helped me to love and enjoy Physics.
 
 One open evening a 3d physics simulation that I had built was on display in the Physics classroom.
 
+<iframe width="380" height="213" src="https://www.youtube.com/embed/5HIu-ueV3rU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 A few weeks later something happened.
 
 I was visiting a friend for a party and on the way home, I was attacked at a train station.
