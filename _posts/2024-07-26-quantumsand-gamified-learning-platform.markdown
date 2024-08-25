@@ -18,6 +18,32 @@ The result of this thought process is now an app that is nearing completion for 
 
 Quantum Sand is an educational art-game-storytelling platform. Written in React, Rust, Ruby-on-Rails, C++ and Qml. Blender is used for the artwork.
 
+Market
+![Market]({{site.baseurl}}/assets/img/Market.png)
+
+AV
+![AV]({{site.baseurl}}/assets/img/AV.png)
+
+
+Mail
+![Mail]({{site.baseurl}}/assets/img/Mail.png)
+
+
+Collaborate
+![Collaborate]({{site.baseurl}}/assets/img/Collaborate.png)
+
+
+Chirp
+![Chirp]({{site.baseurl}}/assets/img/Chirp.png)
+
+
+Audio
+![Audio]({{site.baseurl}}/assets/img/Audio.png)
+
+
+Images
+![Images]({{site.baseurl}}/assets/img/Images.png)
+
 * React for the UI
 * Rust for many of the video games
 * Ruby-on-Rails for the core backend and P2P
