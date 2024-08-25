@@ -21,6 +21,9 @@ Quantum Sand is an educational art-game-storytelling platform. Written in React,
 Market
 ![Market]({{site.baseurl}}/assets/img/Market.png)
 
+Services
+![Services]({{site.baseurl}}/assets/img/Services.png)
+
 AV
 ![AV]({{site.baseurl}}/assets/img/AV.png)
 
