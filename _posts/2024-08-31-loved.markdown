@@ -1,0 +1,18 @@
+---
+layout: post
+title: Loved you in the ways I thought I should
+date: 2024-08-31 00:00:00 +0200
+description: love loved # Add post description (optional)
+img: Persuasion.jpg # Add image post (optional)
+tags: [love, loved] # add tag
+---
+
+Recently I have been reading:
+
+I desperately love the soundtrack music from the ITV version of Persuasion.
+
+It is still very powerful after all these years.
+
+![I am not someone who is loved]({{site.baseurl}}/assets/img/I-am-not-someone-who-is-loved.jpg)
+
+![Loved you in the ways I thought I should]({{site.baseurl}}/assets/img/Loved-you-in-the-only-way-I-knew-Loved-you-in-the-ways-I-thought-I-could.png)
