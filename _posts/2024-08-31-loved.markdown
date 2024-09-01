@@ -25,4 +25,6 @@ It is still very powerful after all these years.
 
 ![You are the best one of the best ones]({{site.baseurl}}/assets/img/You-are-the-best-one-of-the-best-ones.png)
 
+![Nie-vergessen]({{site.baseurl}}/assets/img/Nie-vergessen.png)
+
 ![Persuasion ITV]({{site.baseurl}}/assets/img/Persuasion-ITV.png)
