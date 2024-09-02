@@ -38,14 +38,17 @@ Cardiac arrest can be caused by raising the pulse of the heart gradually until i
 
 The best way to deliver this weapon is a large synchronised cluster of space satellites operational with this precise perfect murder weapon 🤣🤣.
 
-This space physics bioweapon should:
+This space physics AI bioweapon should:
 * Use AI machine learning to follow the heat signature of victims
 * Target the exposed skin mathematically and precisely for assassination
-
+* Create highly electrically charged volumes surrounding the victim
+* Render the victim immobile; psychiatrically confused 🤣🤣; target the mind but also the legs and so forth. 🤣🤣
 
 A defence from this satirical weapon 🤣🤣:
 
 The AI would move on very quickly when just 1 sheet of Tesco Aluminium foil is blocking the weapon. Electromagnetic shielding within clothing might be hilarious!! 🤣🤣
+
+This post has helped me to laugh my ass off! 🤣🤣 I hope you enjoy this Private Eye inspired satire. 🤣🤣
 
 
 ![Military DNA]({{site.baseurl}}/assets/img/nuclear-magnetic-resonance-and-relaxation.jpg)
