@@ -43,7 +43,7 @@ This space physics AI bioweapon should:
 * Use AI machine learning to follow the heat signature of victims
 * Target the exposed skin mathematically and precisely for assassination
 * Create highly electrically charged volumes surrounding the victim
-* Render the victim immobile; psychiatrically confused 🤣🤣; target the mind but also the legs and so forth. 🤣🤣
+* Render the victim immobile; psychiatrically confused 😱😱; target the mind but also the legs and so forth. 😱😱
 * Use a software-defined radio to generate the waveform
 
 A defence from this satirical weapon 🤣🤣:
