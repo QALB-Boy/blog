@@ -52,6 +52,8 @@ The AI would move on very quickly when just 1 sheet of Tesco Aluminium foil is b
 
 This post has helped me to laugh my ass off! 🤣🤣 I hope you enjoy this Private Eye inspired satire. 🤣🤣
 
+WARNING: More physics satire 🤣🤣 lectures 😱😱 coming soon!!
+
 
 ![Brian Cowan NMR]({{site.baseurl}}/assets/img/nuclear-magnetic-resonance-and-relaxation.jpg)
 
