@@ -7,6 +7,7 @@ img: nuclear-magnetic-resonance-and-relaxation.jpg # Add image post (optional)
 tags: [physics, bioweapon] # add tag
 ---
 
+![The human body]({{site.baseurl}}/assets/img/20240320-The-human-body-is-a-quantum-mechanical-Natural-Intelligence-machine-learning-computer-Moi-20-th-March-2024.png)
 
 WARNING SATIRE 🤣🤣!! Theoretical Physics AI Bioweapon 🤣🤣
 
@@ -36,13 +37,14 @@ This resonance of body organ or tissue can cause organ failure or cardiac arrest
 
 Cardiac arrest can be caused by raising the pulse of the heart gradually until it is racing uncontrollably.
 
-The best way to deliver this weapon is a large synchronised cluster of space satellites operational with this precise perfect murder weapon 🤣🤣.
+The best way to deliver this weapon is a large synchronised cluster of space satellites operational with this precise perfect murder weapon 😱😱😱😱😱😱.
 
 This space physics AI bioweapon should:
 * Use AI machine learning to follow the heat signature of victims
 * Target the exposed skin mathematically and precisely for assassination
 * Create highly electrically charged volumes surrounding the victim
 * Render the victim immobile; psychiatrically confused 🤣🤣; target the mind but also the legs and so forth. 🤣🤣
+* Use a software-defined radio to generate the waveform
 
 A defence from this satirical weapon 🤣🤣:
 
@@ -51,5 +53,5 @@ The AI would move on very quickly when just 1 sheet of Tesco Aluminium foil is b
 This post has helped me to laugh my ass off! 🤣🤣 I hope you enjoy this Private Eye inspired satire. 🤣🤣
 
 
-![Military DNA]({{site.baseurl}}/assets/img/nuclear-magnetic-resonance-and-relaxation.jpg)
+![Brian Cowan NMR]({{site.baseurl}}/assets/img/nuclear-magnetic-resonance-and-relaxation.jpg)
 
