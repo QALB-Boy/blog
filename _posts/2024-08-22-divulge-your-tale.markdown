@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Divulge Your Tale
-date: 2024-08-22 13:32:20 +0300
+date: 2024-09-03 23:21:20 +0300
 description: A journey to Islam
 img: hardiman-hardiman--8p7FGg9rE0-unsplash.jpg
 fig-caption: # Add figcaption (optional)
@@ -143,3 +143,27 @@ If anyone has any ideas about me making Hijra and where to, then please do not h
 I have my email in the description.
 
 My hobbies include Chloe Ting Abs workouts, press ups to Jay-Z/Linkin Park. Running, listening to music, learning Arabic and learning about Islam.
+
+Update: 
+
+<iframe width="380" height="213" src="https://www.youtube.com/embed/-9tdmby8z1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Melbury Lodge doctors would fail basic psychiatric evaluation.
+
+Once you have seen through Dr Pippa North and Dr Emma Vaccari you cannot go back.
+
+Once you are aware that they would both fail basic psychiatric tests then many things become clear.
+
+The fraudulent medical records which claim that you were behaving in a psychotic manner all become clear.
+
+The fraudulent medical records which claim that you were behaving in a manic or with bipolar symptoms all become clear.
+
+Dr Pippa North and Dr Emma Vaccari are both mentally unstable and are very dangerous individuals.
+
+Lots of people are aware of their insanity but are too afraid to speak up about this.
+
+I have spoken to patients and staff who know this but they cannot say anything.
+
+The criminal Melbury Lodge doctors need to be struck off.
+
+I am sure that many people will agree with what I have to say.
