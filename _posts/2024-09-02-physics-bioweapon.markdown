@@ -15,7 +15,7 @@ After many years of reading Private Eye, I felt it necessary to deliver some “
 
 Begin: Satire!! 🤣🤣
 
-My knowledge from the Electromagnetism course with professor Brian Cowan, has helped me to understand how bioacoustic resonant frequencies of body organs and tissue can be targetted. At the bottom of this post I will explain a defence for this weapon 🤣🤣.
+My knowledge from the Electromagnetism course with professor Brian Cowan, has helped me to understand how bioacoustic resonant frequencies of body organs and tissue can be targeted. At the bottom of this post I will explain a defence for this weapon 🤣🤣.
 
 In quantum the resonant frequency of water is in the microwave radio frequency. This is how microwave ovens work they heat up the water.
 
