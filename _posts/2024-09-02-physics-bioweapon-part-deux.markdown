@@ -21,5 +21,7 @@ COMING SOON!! You will need:
 * a Linux laptop
 
 
+Please star on Github: [https://github.com/clangordon/physics-bioweapon](https://github.com/clangordon/physics-bioweapon)
+
 ![Brian Cowan NMR]({{site.baseurl}}/assets/img/nuclear-magnetic-resonance-and-relaxation.jpg)
 

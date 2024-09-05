@@ -54,6 +54,7 @@ This post has helped me to laugh my ass off! 🤣🤣 I hope you enjoy this Priv
 
 WARNING: More physics satire 🤣🤣 lectures 😱😱 coming soon!!
 
+Please star on Github: [https://github.com/clangordon/physics-bioweapon](https://github.com/clangordon/physics-bioweapon)
 
 ![Brian Cowan NMR]({{site.baseurl}}/assets/img/nuclear-magnetic-resonance-and-relaxation.jpg)
 
