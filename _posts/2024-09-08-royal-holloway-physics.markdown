@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Royal Holloway Physics
-date: 2024-08-31 00:00:00 +0200
+date: 2024-09-08 00:00:00 +0200
 description: rhul wedderburn gowar # Add post description (optional)
 img: Royal-Holloway_cropped.jpg # Add image post (optional)
 tags: [rhul, wedderburn, gowar] # add tag
