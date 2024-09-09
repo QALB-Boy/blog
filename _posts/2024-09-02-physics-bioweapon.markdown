@@ -27,7 +27,7 @@ Combined with NMR – nuclear magnetic resonance and relaxation – from a dista
 
 It is possible to feed the real-time scans from NMR into an Artificial Intelligence model which can generate the bioacoustic resonant frequencies.
 
-This can be used for: burns, squeezing, irritation, vibration, shaking, cuts, cardiac arrest.
+This can be used for: burns, squeezing, irritation, vibration, shaking, cuts, internal organs “burning” inside, cardiac arrest.
 
 This is achieved by switching on and off at the exact waveform over the top of the resonant frequency of water.
 
