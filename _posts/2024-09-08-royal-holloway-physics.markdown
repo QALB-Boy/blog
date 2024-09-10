@@ -9,7 +9,7 @@ tags: [rhul, wedderburn, gowar] # add tag
 
 After lots of research between 2002 to 2003 I concluded that the physics department at Royal Holloway was the best or one of the best places to study physics.
 
-![Antimatter]({{site.baseurl}}/assets/img/Antimatter.png)
+![Antimatter]({{site.baseurl}}/assets/img/antimatter.png)
 
 I will be forever thankful for the brilliant staff who really helped to inspire me.
 
