@@ -48,7 +48,7 @@ This space physics AI bioweapon should:
 
 It is possible that quantum mechanical adaptation to the assassination harmonics may occur.
 
-Although it may be something like 1 person in 10 billion who can adapt and reach biological immunity to the physics-bioweapon.
+Although it may be something like 1 person in 10 billion who can adapt and reach biological immunity to the Physics Bioweapon.
 
 Fun question: if someone develops immunity, will their children be born immune?!
 
