@@ -46,6 +46,12 @@ This space physics AI bioweapon should:
 * Render the victim immobile; psychiatrically confused 😱😱; target the mind but also the legs and so forth. 😱😱
 * Use a software-defined radio to generate the waveform
 
+It is possible that quantum mechanical adaptation to the assassination harmonics may occur.
+
+Although it may be something like 1 person in 10 billion who can adapt and reach biological immunity to the physics-bioweapon.
+
+Fun question: if someone develops immunity, will their children be born immune?!
+
 A defence from this satirical weapon 🤣🤣:
 
 The AI would move on very quickly when just 1 sheet of Tesco Aluminium foil is blocking the weapon. Electromagnetic shielding within clothing might be hilarious!! 🤣🤣
