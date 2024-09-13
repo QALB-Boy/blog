@@ -22,6 +22,8 @@ COMING SOON!! You will need:
 
 The Physics Bioweapon should use modulation to carry the resonant bioacoustic harmonics over a 2.45Ghz signal, which corresponds to the resonant frequency of water.
 
+![Physics lecture Friday 13th 2024]({{site.baseurl}}/assets/img/vlcsnap-2024-09-13-19h52m38s288.png)
+
 <iframe width="380" height="213" src="https://www.youtube.com/embed/CamuKcNNr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 More to follow...
