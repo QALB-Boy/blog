@@ -20,6 +20,11 @@ COMING SOON!! You will need:
 * GNU Radio
 * a Linux laptop
 
+The Physics Bioweapon should use modulation to carry the resonant bioacoustic harmonics over a 2.45Ghz signal, which corresponds to the resonant frequency of water.
+
+<iframe width="380" height="213" src="https://www.youtube.com/embed/CamuKcNNr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+More to follow...
 
 Please star on Github: [https://github.com/clangordon/physics-bioweapon](https://github.com/clangordon/physics-bioweapon)
 
