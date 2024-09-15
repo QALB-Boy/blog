@@ -2,7 +2,7 @@
 layout: post
 title: Physics Bioweapon lecture part deux
 date: 2024-09-02 07:00:00 +0500
-description: Physics lecture part deux. # Add post description (optional)
+description: Physics Bioweapon lecture part deux. # Add post description (optional)
 img: nuclear-magnetic-resonance-and-relaxation.jpg # Add image post (optional)
 tags: [physics, bioweapon, part-deux] # add tag
 ---
