@@ -33,6 +33,12 @@ Shopping centre in Havant.
 
 <iframe width="380" height="213" src="https://www.youtube.com/embed/ZDRUiVPdexI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+![Physics lecture Sunday 15th 2024]({{site.baseurl}}/assets/img/vlcsnap-2024-09-15-13h09m30s466.png)
+Barton-on-Sea
+
+<iframe width="380" height="213" src="https://www.youtube.com/embed/btzSlWcRMp8 " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 More to follow...
 
 Please star on Github: [https://github.com/clangordon/physics-bioweapon](https://github.com/clangordon/physics-bioweapon)
