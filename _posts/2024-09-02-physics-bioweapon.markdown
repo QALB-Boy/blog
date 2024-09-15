@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Physics lecture
+title: Physics Bioweapon lecture
 date: 2024-09-02 00:00:00 +0400
 description: Physics lecture. # Add post description (optional)
 img: nuclear-magnetic-resonance-and-relaxation.jpg # Add image post (optional)
