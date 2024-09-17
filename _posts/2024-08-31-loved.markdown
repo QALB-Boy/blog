@@ -56,3 +56,6 @@ I prefer girls who don’t don't quite fit in...
 ![You can only see me in the bedroom]({{site.baseurl}}/assets/img/You-can-only-see-me-in-the-bedroom.png)
 
 ![I'm tired of falling out of love]({{site.baseurl}}/assets/img/I-m-tired-of-falling-out-of-love-I-m-tired-of-the-rise-and-fall.png)
+
+
+![Diamonds won't fool me]({{site.baseurl}}/assets/img/Diamonds-won-t-fool-me-cause-I-m-too-far-gone.png)
