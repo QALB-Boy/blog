@@ -40,6 +40,8 @@ Barton-on-Sea
 <iframe width="380" height="213" src="https://www.youtube.com/embed/btzSlWcRMp8 " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+![Physics lecture Wednesday 18th 2024]({{site.baseurl}}/assets/img/vlcsnap-2024-09-18-18h12m06s416.png)
+
 Analysis of water resonant harmonic
 
 <iframe width="380" height="213" src="https://www.youtube.com/embed/A_1_w7EiQEA " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
