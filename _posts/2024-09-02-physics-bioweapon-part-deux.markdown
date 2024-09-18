@@ -39,6 +39,12 @@ Barton-on-Sea
 
 <iframe width="380" height="213" src="https://www.youtube.com/embed/btzSlWcRMp8 " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+Analysis of water resonant harmonic
+
+<iframe width="380" height="213" src="https://www.youtube.com/embed/A_1_w7EiQEA " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 More to follow...
 
 Please star on Github: [https://github.com/clangordon/physics-bioweapon](https://github.com/clangordon/physics-bioweapon)
