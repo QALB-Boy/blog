@@ -52,7 +52,17 @@ Barton-on-Sea
 
 Analysis of water resonant harmonic
 
-<iframe width="380" height="213" src="https://www.youtube.com/embed/A_1_w7EiQEA " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="380" height="213" src="https://www.youtube.com/embed/A_1_w7EiQEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+# Bioacoustic resonant harmonics encoding
+Bioacoustic resonant harmonics are encoded into the waveform:
+
+![Physics lecture Friday 20th 2024]({{site.baseurl}}/assets/img/vlcsnap-2024-09-20-17h37m32s168.png)
+
+
+<iframe width="380" height="213" src="https://www.youtube.com/embed/-DtyaPtVtDc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 More to follow...
