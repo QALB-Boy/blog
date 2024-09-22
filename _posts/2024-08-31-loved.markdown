@@ -67,3 +67,5 @@ Lucifer: “It's the bullet from when you shot me.”
 ![Under the night sky I am yours]({{site.baseurl}}/assets/img/Under-the-night-sky-I-am-yours-Give-me-a-reason-to-love-you-to-love.png)
 
 ![Don't you remember love]({{site.baseurl}}/assets/img/Don-t-you-remember-love-Don-t-you-remember-anything.png)
+
+![But the bruises on your ego]({{site.baseurl}}/assets/img/But-the-bruises-on-your-ego-make-you-go-wild-wild-wild-yeah.png)
