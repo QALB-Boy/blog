@@ -77,4 +77,10 @@ I need volunteers who are good with:
 * PyTorch
 * Python
 
+One of my conclusions; the Greek alphabet must be taught to improve mathematics literacy.
+
+As part of the curriculum I am building within Quantum Sand, I have realised that familiarity or literacy with the Greek alphabet is really vital for improving mathematics literacy.
+
+This Greek alphabet literacy will be built right into the learning.
+
 Please star on Github: [https://github.com/quantumsand/quantumsand](https://github.com/quantumsand/quantumsand)
