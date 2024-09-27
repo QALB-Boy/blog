@@ -17,6 +17,8 @@ It is still very powerful after all these years.
 
 ![Alice]({{site.baseurl}}/assets/img/alice.jpg)
 
+![MX]({{site.baseurl}}/assets/img/You-re-so-sweet-Your-smile-your-p-and-your-bones-You-re-on-fire-You-move-me-like-music-with-your-style.png)
+
 ![Untouched]({{site.baseurl}}/assets/img/Untouched.png)
 
 ![I Dont Wanna Live Forever Acoustic]({{site.baseurl}}/assets/img/I-Don-t-Wanna-Live-Forever-Acoustic.png)
