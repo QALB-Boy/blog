@@ -15,6 +15,8 @@ After many years of reading Private Eye, I felt it necessary to deliver some “
 
 Begin: Satire part deux!! 🤣🤣
 
+It is vitally important to study the waveform in each of these videos. Do not be afraid if the waveforms appear to be confusing or do not make any sense. You can see a signal at approximately 2.45Ghz, which is the resonant frequency of water. We must also focus on the signal just below and just above 2.45Ghz.
+
 COMING SOON!! You will need:
 * a software-defined radio
 * GNU Radio
