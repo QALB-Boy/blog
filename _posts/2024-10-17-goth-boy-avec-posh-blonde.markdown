@@ -9,4 +9,13 @@ tags: [stem, physics-bioweapon, goth-boy, posh-blonde] # add tag
 
 Goth Boy avec Posh Blonde COMING SOON
 
+Girls at uni discovered: 
+
+1. I give them multiple O. Really.
+2. I’m also off the charts (normal distribution). Really.
+
+Really really.
+
+COMING SOON...!
+
 ![Persuasion]({{site.baseurl}}/assets/img/Persuasion.jpg)
