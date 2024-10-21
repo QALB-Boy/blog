@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The British people must support the monarchy back into power
-date: 2024-10-18 00:00:00 +0400
+date: 2024-10-21 00:00:00 +0400
 description: The British people must support the monarchy back into power # Add post description (optional)
 img:  20241021-the-British-people-need-to-put-the-monarchy-thus-the-House-of-Windsor-back-into-power.png # Add image post (optional)
 tags: [british, monarchy] # add tag
