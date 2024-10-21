@@ -17,6 +17,8 @@ Begin: Satire part deux!! 🤣🤣
 
 It is vitally important to study the waveform in each of these videos. Do not be afraid if the waveforms appear to be confusing or do not make any sense. You can see a signal at approximately 2.45Ghz, which is the resonant frequency of water. We must also focus on the signal just below and just above 2.45Ghz.
 
+The “magical” aspect of this weapon which makes it unique, is the waveform oscillation above and below the 2.45Ghz resonant harmonic of water. We can encode resonant harmonics which we engrave over the signal in a targeted way.
+
 COMING SOON!! You will need:
 * a software-defined radio
 * GNU Radio
