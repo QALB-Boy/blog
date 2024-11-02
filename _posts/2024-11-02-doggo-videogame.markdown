@@ -17,4 +17,8 @@ Time limits to prevent addiction are planned for the platform.
 
 Multiplayer is a planned feature.
 
+Doggo was heavily inspired by Anastasia Opara:
+
+![Anastasia Opara]({{site.baseurl}}/assets/img/vlcsnap-2024-11-02-19h51m51s708.png)
+
 ![Doggo game plan]({{site.baseurl}}/assets/img/doggo-game-plan.png)
