@@ -1,0 +1,38 @@
+---
+layout: post
+title: PLEASE HELP; I am searching for a kind and decent psychiatrist
+date: 2024-11-20 00:00:00 +0400
+description: PLEASE HELP; I am searching for a kind and decent psychiatrist. # Add post description (optional)
+img: Moi_cropped.jpg # Add image post (optional)
+tags: [ancestry, military] # add tag
+---
+
+# Background:
+
+In 2013 fraudulent medical records were written on my NHS records. 
+
+Now, in 2024 further fraudulent records have been written on my NHS records.
+
+I do not have lots of money for legal action.
+
+I also do not have lots of money for a private psychiatrist.
+
+I am looking for a kind and decent psychiatrist who can revoke these fictional records.
+
+I am complying with the pharma drugs against my will until I can get these fictional records revoked.
+
+* 20241114; 1000mg lithium carbonate, 300mg clozapine
+* 20241115; 150mg clozapine
+* 20241115; 1000mg lithium carbonate, 300mg clozapine
+* 20241116; 150mg clozapine
+* 20241116; 1000mg lithium carbonate, 300mg clozapine
+* 20241117; 150mg clozapine
+* 20241117; 1000mg lithium carbonate, 300mg clozapine
+* 20241118; 150mg clozapine
+* 20241118; 1000mg lithium carbonate, 350mg clozapine
+* 20241119; 100mg clozapine
+* 20241119; 1000mg lithium carbonate, 350mg clozapine
+* 20241120; 100mg clozapine
+
+
+![Moi]({{site.baseurl}}/assets/img/Moi.jpg)
