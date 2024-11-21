@@ -21,6 +21,8 @@ I am looking for a kind and decent psychiatrist who can revoke these fictional r
 
 I am complying with the pharma drugs against my will until I can get these fictional records revoked.
 
+The medications make me too sleepy and heavily drugged up for any normal kind of existence.
+
 * 20241114; 1000mg lithium carbonate, 300mg clozapine
 * 20241115; 150mg clozapine
 * 20241115; 1000mg lithium carbonate, 300mg clozapine
