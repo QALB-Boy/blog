@@ -1,8 +1,8 @@
 ---
 layout: post
-title: PLEASE HELP; I am searching for a kind and decent psychiatrist
+title: PLEASE HELP 🙏🏻🙏🏻; I am searching for a kind and decent psychiatrist
 date: 2024-11-20 00:00:00 +0400
-description: PLEASE HELP; I am searching for a kind and decent psychiatrist. # Add post description (optional)
+description: PLEASE HELP 🙏🏻🙏🏻; I am searching for a kind and decent psychiatrist. # Add post description (optional)
 img: Moi_cropped.jpg # Add image post (optional)
 tags: [psychiatry, help] # add tag
 ---
