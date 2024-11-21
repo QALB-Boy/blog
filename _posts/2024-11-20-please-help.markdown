@@ -33,6 +33,8 @@ I am complying with the pharma drugs against my will until I can get these ficti
 * 20241119; 100mg clozapine
 * 20241119; 1000mg lithium carbonate, 350mg clozapine
 * 20241120; 100mg clozapine
+* 20241120; 1000mg lithium carbonate, 350mg clozapine
+* 20241121; 100mg clozapine
 
 
 ![Moi]({{site.baseurl}}/assets/img/Moi.jpg)
