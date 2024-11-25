@@ -43,5 +43,7 @@ The medications make me too sleepy and heavily drugged up for any normal kind of
 * 20241123; 50mg clozapine
 * 20241123; 1000mg lithium carbonate, 400mg clozapine
 * 20241124; 50mg clozapine
+* 20241124; 1000mg lithium carbonate, 400mg clozapine
+* 20241125; 50mg clozapine
 
 ![Moi]({{site.baseurl}}/assets/img/Moi.jpg)
