@@ -47,5 +47,26 @@ The medications make me too sleepy and heavily drugged up for any normal kind of
 * 20241125; 50mg clozapine
 * 20241125; 1000mg lithium carbonate, 450mg clozapine
 * 20241126; 1000mg lithium carbonate, 450mg clozapine
+* 20241127; 1000mg lithium carbonate, 450mg clozapine
+* 20241128; 1000mg lithium carbonate, 450mg clozapine
+* 20241129; 1000mg lithium carbonate, 450mg clozapine
+* 20241130; 1000mg lithium carbonate, 450mg clozapine
+* 20241201; 1000mg lithium carbonate, 450mg clozapine
+* 20241202; 1000mg lithium carbonate, 450mg clozapine
+* 20241203; 1000mg lithium carbonate, 450mg clozapine
+* 20241204; 1000mg lithium carbonate, 450mg clozapine
+* 20241205; 1000mg lithium carbonate, 450mg clozapine
+* 20241206; 1000mg lithium carbonate, 450mg clozapine
+* 20241207; 1000mg lithium carbonate, 450mg clozapine
+* 20241208; 1000mg lithium carbonate, 450mg clozapine
+* 20241209; 1000mg lithium carbonate, 450mg clozapine
+* 20241210; 1000mg lithium carbonate, 450mg clozapine
+* 20241211; 1000mg lithium carbonate, 450mg clozapine
+* 20241212; 1000mg lithium carbonate, 450mg clozapine
+* 20241213; 1000mg lithium carbonate, 450mg clozapine
+* 20241214; 1000mg lithium carbonate, 450mg clozapine
+* 20241215; 1000mg lithium carbonate, 450mg clozapine
+* 20241216; 1000mg lithium carbonate, 450mg clozapine
+* 20241217; 800mg lithium carbonate, 450mg clozapine
 
 ![Moi]({{site.baseurl}}/assets/img/Moi.jpg)
