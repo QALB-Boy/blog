@@ -69,5 +69,6 @@ The medications make me too sleepy and heavily drugged up for any normal kind of
 * 20241216; 1000mg lithium carbonate, 450mg clozapine
 * 20241217; 800mg lithium carbonate, 450mg clozapine
 * 20241218; 800mg lithium carbonate, 450mg clozapine
+* 20241219; Dr Pippa North; in ward round; false claims of psychosis and psychotic episodes on my medical records. Nobody defending me against these slanders.
 
 ![Moi]({{site.baseurl}}/assets/img/Moi.jpg)
