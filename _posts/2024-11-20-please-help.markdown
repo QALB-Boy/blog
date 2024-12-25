@@ -23,6 +23,8 @@ I am complying with the pharma drugs against my will until I can get these ficti
 
 The medications make me too sleepy and heavily drugged up for any normal kind of existence.
 
+I am keeping a calm and detailed daily log as evidence for legal action regarding the fictional medical records, the fictional symptoms and the fictional diseases.
+
 * 20241114; 1000mg lithium carbonate, 300mg clozapine
 * 20241115; 150mg clozapine
 * 20241115; 1000mg lithium carbonate, 300mg clozapine
@@ -75,5 +77,6 @@ The medications make me too sleepy and heavily drugged up for any normal kind of
 * 20241221; 800mg lithium carbonate, 450mg clozapine
 * 20241222; 800mg lithium carbonate, 450mg clozapine
 * 20241223; 800mg lithium carbonate, 450mg clozapine
- 
+* 20241224; 800mg lithium carbonate, 450mg clozapine
+
 ![Moi]({{site.baseurl}}/assets/img/Moi.jpg)
