@@ -78,5 +78,6 @@ I am keeping a calm and detailed daily log as evidence for legal action regardin
 * 20241222; 800mg lithium carbonate, 450mg clozapine
 * 20241223; 800mg lithium carbonate, 450mg clozapine
 * 20241224; 800mg lithium carbonate, 450mg clozapine
+* 20241225; 800mg lithium carbonate, 450mg clozapine
 
 ![Moi]({{site.baseurl}}/assets/img/Moi.jpg)
