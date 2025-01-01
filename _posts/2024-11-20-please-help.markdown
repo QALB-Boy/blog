@@ -23,6 +23,10 @@ I am complying with the pharma drugs against my will until I can get these ficti
 
 The medications make me too sleepy and heavily drugged up for any normal kind of existence.
 
+Earlier this year:
+* Dr Pippa North (continual threats of forced injections; fictional accounts about me, inventing fictional diseases, confiscated my laptop and phone for over two months, mocked me when I mentioned legal action due to my lack of money, the most arrogant criminal and psychotic liar I have ever met)
+* Dr Emma Vaccari (continual threats of forced injections; fictional accounts about me, inventing fictional diseases, confiscated my laptop and phone for over two months)
+
 I am keeping a calm and detailed daily log as evidence for legal action regarding the fictional medical records, the fictional symptoms and the fictional diseases.
 
 * 20241114; 1000mg lithium carbonate, 300mg clozapine
