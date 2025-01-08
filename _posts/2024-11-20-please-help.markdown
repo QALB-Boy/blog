@@ -93,6 +93,9 @@ I am keeping a calm and detailed daily log as evidence for legal action regardin
 * 20250102; 400mg lithium carbonate, 450mg clozapine
 * 20250103; 200mg lithium carbonate, 450mg clozapine
 * 20250104; 200mg lithium carbonate, 450mg clozapine
-
+* 20250105; 200mg lithium carbonate, 450mg clozapine
+* 20250106; 200mg lithium carbonate, 450mg clozapine
+* 20250107; 200mg lithium carbonate, 450mg clozapine
+* 20250108; 0mg lithium carbonate (lithium carbonate stopped), 450mg clozapine
 
 ![Moi]({{site.baseurl}}/assets/img/Moi.jpg)
