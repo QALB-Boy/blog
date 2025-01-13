@@ -97,5 +97,10 @@ I am keeping a calm and detailed daily log as evidence for legal action regardin
 * 20250106; 200mg lithium carbonate, 450mg clozapine
 * 20250107; 200mg lithium carbonate, 450mg clozapine
 * 20250108; 0mg lithium carbonate (lithium carbonate stopped), 450mg clozapine
+* 20250109; 450mg clozapine
+* 20250110; 450mg clozapine
+* 20250111; 450mg clozapine
+* 20250112; 450mg clozapine
+* 20250113; After 42+ weeks Dr “Nazi” Pippa North has just said: “home on Thursday”. I am going to log the legal names of every arrogant “Nazi” Health Service staff member forcing pharma drugs down my throat for fictional diseases which they know I don’t have. Leaving North’s Melbury Lodge “Nazi” camp will not stop me from logging legal names of all staff enforcing treatment for this fictional disease.
 
 ![Moi]({{site.baseurl}}/assets/img/Moi.jpg)
