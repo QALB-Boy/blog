@@ -104,5 +104,8 @@ I am keeping a calm and detailed daily log as evidence for legal action regardin
 * 20250113; After 42+ weeks Dr “Nazi” Pippa North has just said: “home on Thursday”. I am going to log the legal names of every arrogant “Nazi” Health Service staff member forcing pharma drugs down my throat for fictional diseases which they know I don’t have. Leaving North’s Melbury Lodge “Nazi” camp will not stop me from logging legal names of all staff enforcing treatment for this fictional disease.
 * 20250113; Today I was made aware that Melbury Lodge “Nazi” Dr Impey and the ex-Muslim “Nazi” Dr Mohammed (Arabic: مُحَمَّد, romanized: Muḥammad) have been forcing an innocent girl “V” to have electroshock therapy against her will for no reason. No Muslim with an atom of belief would use electroshock therapy against an animal let alone an innocent girl.
 * 20250113; 450mg clozapine
+* 20250114; 450mg clozapine
+* 20250115; 450mg clozapine* 
+* 20250116; Today the very kind and decent psychologists informed me that I totally failed a very basic IQ test which I had done recently. Whilst I am being heavily drugged on forced pharma drug clozapine I cannot pass a basic IQ test. This is despite graduating in Physics 2.1 from University of London, Royal Holloway. This indicates the effect of clozapine on your brain whilst forcibly drugged against your will.
 
 ![Moi]({{site.baseurl}}/assets/img/Moi.jpg)
