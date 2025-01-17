@@ -112,7 +112,7 @@ I am keeping a calm and detailed daily log as evidence for legal action regardin
 ![NHS complaint letter page 2]({{site.baseurl}}/assets/img/20250116_NHS_COMPLAINT_2.jpg)
 
 * 20250116; 450mg clozapine
-* 20250117; Louisa Smith phoned from NHS psychiatry Waterford House, New Milton. I made her aware of my website and the letter which I have drafted to my GP. I made it clear that my medical records contain fictional fabricated lies by Dr North and her colleagues.
+* 20250117; Louisa Smith phoned from NHS psychiatry Waterford House, New Milton. I made her aware of my website and the letter which I have drafted to my GP. I made it clear that my medical records contain fictional fabricated lies by Dr North and her colleagues. Louisa Smith asked whether the forced pharma drugs against my will were “helping” with my “illness” despite the fact that I don’t have any illnesses. As you can see, almost every NHS staff member covers up over the lies of the previous liar psychiatrist. It is never-ending.
 
 ![Moi]({{site.baseurl}}/assets/img/Moi.jpg)
 
