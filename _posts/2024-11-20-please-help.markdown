@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PLEASE HELP 🙏🏻🙏🏻; I am searching for a kind and decent psychiatrist
-date: 2024-11-20 00:00:00 +0400
+date: 2025-01-26 00:00:00 +0000
 description: PLEASE HELP 🙏🏻🙏🏻; I am searching for a kind and decent psychiatrist. # Add post description (optional)
 img: Moi_cropped.jpg # Add image post (optional)
 tags: [psychiatry, help] # add tag
@@ -120,6 +120,12 @@ I am keeping a calm and detailed daily log as evidence for legal action regardin
 * 20250119; 450mg clozapine
 * 20250120; I handed in my NHS complaint letter to my GP; Dr Cook at Barton Surgery. The same letter published on my website concerns the fictional medical records including fake symptoms, fake diseases and the fake “agreements” about forced “treatments”.
 * 20250120; I met with Louisa Smith and Sarah Hibbert, Waterford House psychiatry in New Milton. I handed over another copy of the exact NHS complaint letter that I handed to my GP. I made Louisa and Sarah fully aware that my medical records contain false fabricated lies by Dr North and her colleagues. As well as the false fabricated lies of the Abraham Cowley Unit doctors in 2013. As I expected, Louisa and Sarah didn’t really seem to care very much about what I was saying about the false diagnosis. I made them aware that the forced pharma clozapine was causing me to sleep for 6 extra hours per day on top of normal sleep. Again, the support staff do not care about any patients who are being forcibly drugged for fictional diseases which the patients do not have.
+* 20250120; 450mg clozapine
+* 20250121; 450mg clozapine
+* 20250122; 450mg clozapine
+* 20250123; 450mg clozapine
+* 20250124; 450mg clozapine
+* 20250125; 450mg clozapine
 
 ![Moi]({{site.baseurl}}/assets/img/Moi.jpg)
 
