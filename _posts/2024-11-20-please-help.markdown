@@ -126,6 +126,8 @@ I am keeping a calm and detailed daily log as evidence for legal action regardin
 * 20250123; 450mg clozapine
 * 20250124; 450mg clozapine
 * 20250125; 450mg clozapine
+* 20250126; 450mg clozapine
+* 20250127; I had an appointment at Waterford House, New Milton. I met with Charles Teologia and Ellie. I had blood pressure and heart rate obs along with a blood test. I was handed another two week batch of clozapine at the same daily dosage; 450mg per day.
 
 ![Moi]({{site.baseurl}}/assets/img/Moi.jpg)
 
