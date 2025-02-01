@@ -132,5 +132,7 @@ I am keeping a calm and detailed daily log as evidence for legal action regardin
 * 20250128; 450mg clozapine
 * 20250129; 450mg clozapine
 * 20250130; 450mg clozapine
+* 20250131; 450mg clozapine
+* 20250201; 450mg clozapine
 
 ![Moi]({{site.baseurl}}/assets/img/Moi.jpg)
