@@ -139,4 +139,6 @@ I am keeping a calm and detailed daily log as evidence for legal action regardin
 
 ![20250203 Melbury Lodge false summary]({{site.baseurl}}/assets/img/20250203_Melbury_Lodge_false_summary.jpg)
 
+20250203; This summary letter demonstrates the arrogance of the Melbury Lodge staff; which is breathtaking; “his insight into his condition remained limited”; the Melbury Lodge staff continually and arrogantly lie to cover up the previous lies. It is never-ending.
+
 ![Moi]({{site.baseurl}}/assets/img/Moi.jpg)
