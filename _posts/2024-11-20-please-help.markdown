@@ -135,5 +135,8 @@ I am keeping a calm and detailed daily log as evidence for legal action regardin
 * 20250131; 450mg clozapine
 * 20250201; 450mg clozapine
 * 20250202; 450mg clozapine
+* 20250203; Melbury Lodge have sent me a summary letter which is filled with lies; they wrote “Andrew continued to have no insight into his presentation during this time” and “there was only a slight improvement in his presentation”. It is not very surprising because they always lie continously.
+
+![20250203 Melbury Lodge false summary]({{site.baseurl}}/assets/img/20250203_Melbury_Lodge_false_summary.jpg)
 
 ![Moi]({{site.baseurl}}/assets/img/Moi.jpg)
