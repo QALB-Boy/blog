@@ -139,6 +139,13 @@ I am keeping a calm and detailed daily log as evidence for legal action regardin
 
 ![20250203 Melbury Lodge false summary]({{site.baseurl}}/assets/img/20250203_Melbury_Lodge_false_summary.jpg)
 
-20250203; This summary letter demonstrates the arrogance of the Melbury Lodge staff; which is breathtaking; “his insight into his condition remained limited”; the Melbury Lodge staff continually and arrogantly lie to cover up the previous lies. It is never-ending.
+* 20250203; This summary letter demonstrates the arrogance of the Melbury Lodge staff; which is breathtaking; “his insight into his condition remained limited”; the Melbury Lodge staff continually and arrogantly lie to cover up the previous lies. It is never-ending.
+* 20250203; 450mg clozapine
+* 20250204; 450mg clozapine
+* 20250205; 450mg clozapine
+* 20250206; I received a call from Barton surgery; my GP has changed to Dr Andrews. I am having an appointment on 28th February for a check up. Since my GP has changed I have adapted my previous letter and have drafted the following updated letter to my new GP; to ask for advice on how to complain to the NHS about various dangerous psychiatrists working within the NHS:
+
+![NHS complaint letter page 1]({{site.baseurl}}/assets/img/20250206_NHS_COMPLAINT_1.jpg)
+![NHS complaint letter page 2]({{site.baseurl}}/assets/img/20250206_NHS_COMPLAINT_2.jpg)
 
 ![Moi]({{site.baseurl}}/assets/img/Moi.jpg)
