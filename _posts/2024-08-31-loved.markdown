@@ -242,3 +242,5 @@ WARNING SATIRE!!! If she has a semi-automatic then she's a keeper!
 ![Lullaby]({{site.baseurl}}/assets/img/Lullaby.png)
 
 ![quantum darqawi]({{site.baseurl}}/assets/img/quantum-darqawi.jpg)
+
+![Decisions, Decisions]({{site.baseurl}}/assets/img/Decisions-Decisions.png)
