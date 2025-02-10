@@ -154,5 +154,6 @@ I am keeping a calm and detailed daily log as evidence for legal action regardin
 * 20250209; 450mg clozapine
 * 20250210; I received another text message from Barton surgery. For the second time I received a non-urgent message to phone them back. I confirmed for the second time that I will attend the GP check up on the 28th February. 
 * 20250210; Daniel Hutt phoned. He claimed that there is a legal obligation for me to have a “review” due to the Section 3 which I was previously under. Despite me stating that I do not want to attend a “review”, Daniel said that he would contact me closer to the time of 16th December 2025. I made it clear to Daniel that I don’t need anything from him and that I just want the lying doctors to receive justice.
+* 20250210; I had an appointment at Waterford House, New Milton. I met with Charles Teologia. I had blood pressure and heart rate obs along with a blood test. I was handed another two week batch of clozapine at the same daily dosage; 450mg per day.
 
 ![Moi]({{site.baseurl}}/assets/img/Moi.jpg)
