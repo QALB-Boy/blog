@@ -148,4 +148,11 @@ I am keeping a calm and detailed daily log as evidence for legal action regardin
 ![NHS complaint letter page 1]({{site.baseurl}}/assets/img/20250206_NHS_COMPLAINT_1.jpg)
 ![NHS complaint letter page 2]({{site.baseurl}}/assets/img/20250206_NHS_COMPLAINT_2.jpg)
 
+* 20250206; 450mg clozapine
+* 20250207; 450mg clozapine
+* 20250208; 450mg clozapine
+* 20250209; 450mg clozapine
+* 20250210; I received another text message from Barton surgery. For the second time I received a non-urgent message to phone them back. I confirmed for the second time that I will attend the GP check up on the 28th February. 
+* 20250210; Daniel Hutt phoned. He claimed that there is a legal obligation for me to have a “review” due to the Section 3 which I was previously under. Despite me stating that I do not want to attend a “review”, Daniel said that he would contact me closer to the time of 16th December 2025. I made it clear to Daniel that I don’t need anything from him and that I just want the lying doctors to receive justice.
+
 ![Moi]({{site.baseurl}}/assets/img/Moi.jpg)
