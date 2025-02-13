@@ -158,7 +158,7 @@ I am keeping a calm and detailed daily log as evidence for legal action regardin
 * 20250210; 450mg clozapine
 * 20250211; 450mg clozapine
 * 20250212; 450mg clozapine
-* 20252013; Yesterday I received helpful advice from Barton surgery about where to send an NHS complaint. Today I have emailed the following NHS complaint letter to complaints@southernhealth.nhs.uk which is attached as a PDF.
+* 20250213; Yesterday I received helpful advice from Barton surgery about where to send an NHS complaint. Today I have emailed the following NHS complaint letter to complaints@southernhealth.nhs.uk which is attached as a PDF.
 ![20250213_NHS_COMPLAINT_LETTER_1]({{site.baseurl}}/assets/img/20250213_NHS_COMPLAINT_LETTER_1.jpg)
 ![20250213_NHS_COMPLAINT_LETTER_1]({{site.baseurl}}/assets/img/20250213_NHS_COMPLAINT_LETTER_2.jpg)
 ![20250213_NHS_COMPLAINT_LETTER_1]({{site.baseurl}}/assets/img/20250213_NHS_COMPLAINT_LETTER_3.jpg)
