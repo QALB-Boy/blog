@@ -164,5 +164,6 @@ I am keeping a calm and detailed daily log as evidence for legal action regardin
 ![20250213_NHS_COMPLAINT_LETTER_1]({{site.baseurl}}/assets/img/20250213_NHS_COMPLAINT_LETTER_3.jpg)
 ![20250213_NHS_COMPLAINT_LETTER_1]({{site.baseurl}}/assets/img/20250213_NHS_COMPLAINT_LETTER_4.jpg)
 ![20250213_NHS_COMPLAINT_LETTER_1]({{site.baseurl}}/assets/img/20250213_NHS_COMPLAINT_LETTER_5.jpg)
+![20250213_NHS_COMPLAINT_LETTER_EMAIL]({{site.baseurl}}/assets/img/20250213_NHS_COMPLAINT_LETTER_EMAIL.jpg)
 
 ![Moi]({{site.baseurl}}/assets/img/Moi.jpg)
