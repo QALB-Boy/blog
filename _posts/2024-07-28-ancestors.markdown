@@ -8,6 +8,7 @@ tags: [ancestry, military] # add tag
 ---
 
 Scottish Clan Gordon DNA; Ancestors from Markinch. My Scottish grandfather was in the Royal Navy.
+
 ![Andrew with grandfather Ian Potter]({{site.baseurl}}/assets/img/Andrew-with-grandfather-Ian-Potter.jpg)
 
 English Military DNA; Royal Engineers, Royal Marines, Royal Horse Guards etc. My English grandfather was in the Royal Air Force.
