@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Doggo videogame
+title: Doggo whippersnapper videogame
 date: 2024-11-02 00:00:00 +0000
-description: Doggo videogame # Add post description (optional)
+description: Doggo whippersnapper videogame # Add post description (optional)
 img:  doggo-game-plan_cropped.png  # Add image post (optional)
-tags: [doggo, videogame] # add tag
+tags: [doggo, videogame, whippersnapper] # add tag
 ---
 
 In the summer of 2023 I started coding and designing a videogame called Doggo. 
