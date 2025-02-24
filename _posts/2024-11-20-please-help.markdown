@@ -172,5 +172,12 @@ I am keeping a calm and detailed daily log as evidence for legal action regardin
 * 20250216; 450mg clozapine
 * 20250217; Today I received an email confirmation regarding my NHS complaint with the reference number 58905.
 ![20250217_NHS_COMPLAINT_CASE_LOGGED_REF_58905]({{site.baseurl}}/assets/img/20250217_NHS_COMPLAINT_CASE_LOGGED_REF_58905.png)
+* 20250217; 450mg clozapine
+* 20250218; 450mg clozapine
+* 20250219; 450mg clozapine
+* 20250220; 450mg clozapine
+* 20250221; 450mg clozapine
+* 20250222; 450mg clozapine
+* 20250223; 450mg clozapine
 
 ![Moi]({{site.baseurl}}/assets/img/Moi.jpg)
