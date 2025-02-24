@@ -27,7 +27,7 @@ Combined with NMR – nuclear magnetic resonance and relaxation – from a dista
 
 It is possible to feed the real-time scans from NMR into an Artificial Intelligence model which can generate the bioacoustic resonant frequencies.
 
-This can be used for: memory loss, dizziness, confusion, burns, squeezing, irritation, vibration, tremor or shaking hands, shaking, cuts, internal organs “burning” inside, cardiac arrest, insomnia, “daydream intoxication” similar to pharma psychiatric drugs, coughing up blood, dehydration and jugular vein compression.
+This can be used for: memory loss, dizziness, confusion, both internal and external burns, squeezing, irritation, vibration, tremor or shaking hands, shaking, cuts, internal organs “burning” inside, cardiac arrest, insomnia, “daydream intoxication” similar to pharma psychiatric drugs, coughing up blood, dehydration and jugular vein compression.
 
 This is achieved by switching on and off at the exact waveform over the top of the resonant frequency of water.
 
