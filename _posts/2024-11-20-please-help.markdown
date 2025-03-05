@@ -189,7 +189,7 @@ I am keeping a calm and detailed daily log as evidence for legal action regardin
 * 20250302; 450mg clozapine
 * 20250303; 450mg clozapine
 * 20250304; 450mg clozapine
-* 20250305; Today I received an update from Rosy Minster at Melbuey Lodge; stating “we have approached a Psychiatrist to investigate this who has not been involved in your care.”
+* 20250305; Today I received an update from Rosy Minster at Melbury Lodge; stating “we have approached a Psychiatrist to investigate this who has not been involved in your care.”
 
 ![20250305 NHS COMPLAINT REPLY]({{site.baseurl}}/assets/img/20250305_NHS_COMPLAINT_REPLY.png)
 
