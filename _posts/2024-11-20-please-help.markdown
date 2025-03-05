@@ -180,5 +180,17 @@ I am keeping a calm and detailed daily log as evidence for legal action regardin
 * 20250222; 450mg clozapine
 * 20250223; 450mg clozapine
 * 20250224; I had an appointment at Waterford House, New Milton. I met with Charles Teologia. I had blood pressure and heart rate obs along with a blood test. I was handed another two week batch of clozapine at the same daily dosage; 450mg per day.
+* 20250224; 450mg clozapine
+* 20250225; 450mg clozapine
+* 20250226; 450mg clozapine
+* 20250227; 450mg clozapine
+* 20250228; 450mg clozapine
+* 20250301; 450mg clozapine
+* 20250302; 450mg clozapine
+* 20250303; 450mg clozapine
+* 20250304; 450mg clozapine
+* 20250305; Today I received an update from Rosy Minster at Melbuey Lodge; stating “we have approached a Psychiatrist to investigate this who has not been involved in your care.”
+
+![20250305 NHS COMPLAINT REPLY]({{site.baseurl}}/assets/img/20250305_NHS_COMPLAINT_REPLY.png)
 
 ![Moi]({{site.baseurl}}/assets/img/Moi.jpg)
